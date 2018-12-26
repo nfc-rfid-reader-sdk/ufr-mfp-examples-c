@@ -1,3 +1,3 @@
 @echo off
-set path=..\lib\windows\x86_64;%path%
-template-console.exe
+set path=..\lib\windows\x86;%path%
+ufr_mifare_plus_example.exe
